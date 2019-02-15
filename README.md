@@ -8,7 +8,7 @@ After you clone this project, do the following:
 
 ```bash
 # go into the project
-cd Messenger-App-VueJS-and-Laravel
+cd Chatter-Messenger-App-with-laravel-and-Vue
 
 # create a .env file
 cp .env.example .env
